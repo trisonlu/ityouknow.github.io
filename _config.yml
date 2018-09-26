@@ -7,17 +7,19 @@
 
 # Site settings
 title:  舍予堇力的博客
-subtitle: Just a blog
-name: 舍予堇力 
+subtitle: 分享是最好的学习
+name: 舍予堇力
 email: 787076535@qq.com
-description: 。
-keywords: 。
+description: 一个分享技术的网站，谁说不是呢
+keywords: Docker，SpringBoot，SpringCloud，Zookeeper，MQ，ElasticSearch，Redis,Hadoop，多线程，高并发，服务器容器，Linux命令，数据结构，虚拟机，搜索引擎，设计模式，区块链
 encoding: "utf-8"
-favicon: favicon.png 
+favicon: favicon.png
 
 repository: trisonlu/trisonlu.github.io
 github_url: https://github.com/trisonlu
+cnblog_url: https://blog.csdn.net/trisonlu123
 url: http://www.trisonlu.com
+enforce_ssl: trisonlu.com
 
 ## Gem
 plugins:
@@ -27,7 +29,7 @@ plugins:
   - kramdown
   - jekyll-github-metadata
   - jekyll-octicons
-  
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -57,81 +59,36 @@ navs:
 
   -
     href: /
-    label: Home
+    label: 首页
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
-
-  -
-    href: /spring-cloud.html
-    label: Spring-Cloud
-
-  -
-    href: /archives.html
-    label: Archives
-
-  -
-    href: /link.html
-    label: Link
-
-  -
-    href: /about.html
-    label: About
+    href: /
+    label: 其他
 
 
 # labels. my blog key words
 labels:
 
   -
-    href: /share/2017/10/01/resource-sharing.html
-    name: 资源
+    href: /
+    name: 标签1
 
   -
-    href: /life.html
-    name: 故事
-
-  -
-    href: /arch.html
-    name: 架构
-    
-  -
-    href: /jvm.html
-    name: Jvm
-
-  -
-    href: /fastdfs.html
-    name: FastDFS
-
-  -
-    href: /mongodb.html
-    name: MongoDB
-
-  -
-    href: /docker.html
-    name: Docker
-
-  -
-    href: /open-source.html
-    name: Code   
+    href: /
+    name: 标签2
 
 # selected articles
 classes:
 
   -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
+    href: /
+    name: 首页
+    describe: 待添加
 
   -
-    href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
-
-  -
-    href: /jvm.html
-    name: Jvm系列文章
-    describe: Java之根基，Java程序员必学
+    href: /
+    name: 首页
+    describe: 待添加
 
 
 # ---------------- #
@@ -165,19 +122,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: trisonlu
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
-    repo: blog-comments
+    owner: trisonlu
+    repo: trisonlu.github.io
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: de6944e2e51a96467538
+        client_secret: e709b773fee8836ace3e864cc1a322ce73041682
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
-    repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    owner: trisonlu
+    repo: trisonlu.github.io
+    clientID: de6944e2e51a96467538
+    clientSecret: e709b773fee8836ace3e864cc1a322ce73041682
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
