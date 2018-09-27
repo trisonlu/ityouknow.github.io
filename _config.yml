@@ -17,7 +17,7 @@ favicon: favicon.png
 
 repository: trisonlu/trisonlu.github.io
 github_url: https://github.com/trisonlu
-cnblog_url: https://blog.csdn.net/trisonlu123
+csdn_url: https://blog.csdn.net/trisonlu123
 url: http://www.trisonlu.com
 enforce_ssl: trisonlu.com
 
@@ -62,7 +62,7 @@ navs:
     label: 首页
 
   -
-    href: /
+    href: /about.html
     label: 其他
 
 
