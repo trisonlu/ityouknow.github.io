@@ -62,9 +62,9 @@ bin/kafka-console-consumer.sh --bootstrap-server 127.0.0.1:9092 --topic test --f
 **测试效果**
 
 生产者
-![](http://www.trisonlu.com/assets/images/2018/kafka/kafka_producer.png)
+![](http://www.trisonlu.com/assets/images/2018/mq/kafka_producer.png)
 消费者
-![](http://www.trisonlu.com/assets/images/2018/kafka/kafka_consumer.png)
+![](http://www.trisonlu.com/assets/images/2018/mq/kafka_consumer.png)
 
 **关闭进程命令**
 
