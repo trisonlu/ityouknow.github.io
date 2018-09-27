@@ -41,7 +41,7 @@ permalink: /link
 
 ## 个人链接
 
-- [trisonlu](http://www.trisonlu.com/) - 个人独立博客
+- [trisonlu](https://www.trisonlu.com/) - 个人独立博客
 - [github](https://github.com/trisonlu) -  我分享代码的地方
 - [微博](http://weibo.com/trisonlu) -  我的微博
 - [知乎](https://www.zhihu.com/people/trisonlu) - 个人知乎地址，用的不太多大多数都在潜水
@@ -54,6 +54,6 @@ permalink: /link
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
 - 网站名称：trisonlu  
-- 网站链接：http://www.trisonlu.com  
+- 网站链接：https://www.trisonlu.com  
 - 网站描述：neo 的个人博客，分享技术，分享生活  
 
