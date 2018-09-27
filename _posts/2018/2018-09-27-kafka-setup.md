@@ -10,7 +10,7 @@ excerpt: Kafka入门
 
 **下载Kafka**
 
-下载地址：[https://www.apache.org/dyn/closer.cgi?path=/kafka/2.0.0/kafka_2.12-2.0.0.tgz](https://www.apache.org/dyn/closer.cgi?path=/kafka/2.0.0/kafka_2.12-2.0.0.tgz,"kafka_2.12-2.0.0")
+下载地址：[http://mirrors.tuna.tsinghua.edu.cn/apache/kafka/2.0.0/kafka_2.12-2.0.0.tgz](http://mirrors.tuna.tsinghua.edu.cn/apache/kafka/2.0.0/kafka_2.12-2.0.0.tgz)
 
 **解压Kafka**
 
@@ -62,9 +62,9 @@ bin/kafka-console-consumer.sh --bootstrap-server 127.0.0.1:9092 --topic test --f
 **测试效果**
 
 生产者
-![](http://www.trisonlu.com/assets/images/2018/mq/kafka_producer.png)
+![](https://www.trisonlu.com/assets/images/2018/mq/kafka_producer.png)
 消费者
-![](http://www.trisonlu.com/assets/images/2018/mq/kafka_consumer.png)
+![](https://www.trisonlu.com/assets/images/2018/mq/kafka_consumer.png)
 
 **关闭进程命令**
 

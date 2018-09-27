@@ -2,7 +2,7 @@
 layout: page
 title: All articles are here
 titlebar: archives
-subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="https://www.trisonlu.com/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; <a href ="https://www.trisonlu.com/life.html"><font color="#EB9439">故事</font></a>&nbsp;&nbsp; <a href ="https://www.trisonlu.com/jvm.html"><font color="#23527C">JVM</font></a>&nbsp;&nbsp; <a href ="https://www.trisonlu.com/docker.html"><font color="#1E90FF">Docker</font></a>
+subtitle: 
 menu: archives
 css: ['blog-page.css']
 permalink: /archives.html
