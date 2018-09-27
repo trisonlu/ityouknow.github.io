@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka安装示例
-category: other
+category: mq
 no-post-nav: true
 tags: [MQ]
 keywords: MQ,Kafka
