@@ -63,7 +63,7 @@ navs:
 
   -
     href: /about.html
-    label: 其他
+    label: 关于
 
 
 # labels. my blog key words
@@ -71,24 +71,24 @@ labels:
 
   -
     href: /
-    name: 标签1
+    name: 首页
 
   -
-    href: /
-    name: 标签2
+    href: /mq.html
+    name: MQ
 
 # selected articles
 classes:
 
   -
-    href: /
-    name: 首页
-    describe: 待添加
+    href: /soft-power.html
+    name: 软实力
+    describe: 架构师，管理培养
 
   -
-    href: /
-    name: 首页
-    describe: 待添加
+    href: /about.html
+    name: 关于
+    describe: 关于
 
 
 # ---------------- #
